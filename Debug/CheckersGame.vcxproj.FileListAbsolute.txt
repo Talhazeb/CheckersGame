@@ -1,0 +1,2 @@
+C:\Users\talha\source\repos\CheckersGame\Debug\CheckersGame.exe
+D:\CK\CheckersGame\Debug\CheckersGame.exe

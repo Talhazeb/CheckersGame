@@ -1,0 +1,23 @@
+﻿  game.cpp
+D:\CK\CheckersGame\game.cpp(153,125): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\CK\CheckersGame\game.cpp(153,104): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\CK\CheckersGame\game.cpp(177,100): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\CK\CheckersGame\game.cpp(177,79): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\CK\CheckersGame\game.cpp(206): warning C4715: 'Game::events': not all control paths return a value
+  CheckersGame.vcxproj -> D:\CK\CheckersGame\Debug\CheckersGame.exe
